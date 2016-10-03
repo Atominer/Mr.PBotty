@@ -1,0 +1,14 @@
+!invite
+
+in private messages
+
+sends oauth2 link to whoever sends the command
+
+
+*****************************************************************************************************************
+
+!commands
+
+in private messages
+
+send all commands with access properties and descriptions, as well as a github to examples and stuff
